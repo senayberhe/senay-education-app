@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 django = "~=3.0.0"
 pillow = "*"
+bpython = "*"
 
 [requires]
 python_version = "3.8"

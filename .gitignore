@@ -168,3 +168,4 @@ prime/
 stage/
 pip-wheel-metadata/
 .vim/
+educa/settings.py
