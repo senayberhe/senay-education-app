@@ -171,3 +171,5 @@ prime/
 stage/
 pip-wheel-metadata/
 .vim/
+educa/settings/pro.py
+educa/settings/base.py

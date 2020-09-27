@@ -17,6 +17,8 @@ djangorestframework = "*"
 requests = "*"
 channels = "*"
 channels-redis = "*"
+uwsgi = "*"
+daphne = "*"
 
 [requires]
 python_version = "3.8"
