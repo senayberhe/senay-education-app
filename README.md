@@ -10,3 +10,6 @@ In this chapter, you will learn how to:
 • Build formsets
 • Manage groups and permissions
 • Create a CMS
+
+
+you implemented the public views for the course catalog. You built a system for students to register and enroll on courses. You also created the functionality to render different types of content for the course modules. Finally, you learned how to use the Django cache framework and you installed and monitored the Memcached cache backend.
