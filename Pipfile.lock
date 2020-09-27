@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3ed0fba0fdbfd8cf9983fa57a1ad7054b7f1ab8dfebebcbac4d3eafca452ae2d"
+            "sha256": "6fada5b100d77fe79499a0a978814d3ea890a414a7ad2f7716cbac654e0910af"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -78,6 +78,22 @@
             "index": "pypi",
             "version": "==1.14.0"
         },
+        "django-embed-video": {
+            "hashes": [
+                "sha256:7b5149c3ae51f78ddc7bd0e381f63beaf0aad30061815579d3a105e99a3ccbb2",
+                "sha256:ef59264ce1733743ccda329532161140cd975a4e291f01cd68c9b888c20288c0"
+            ],
+            "index": "pypi",
+            "version": "==1.3.3"
+        },
+        "django-memcache-status": {
+            "hashes": [
+                "sha256:154c48ebb572ee6fe74f9349a8102d4ee38730ce6119c8cb48c90f65828ae5cd",
+                "sha256:2066557777325116989ffc02384a1738409aa7c5a66a7081b7d8280e3151eaf5"
+            ],
+            "index": "pypi",
+            "version": "==2.2"
+        },
         "greenlet": {
             "hashes": [
                 "sha256:1023d7b43ca11264ab7052cb09f5635d4afdb43df55e0854498fc63070a0b206",
@@ -150,6 +166,14 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==2.7.1"
+        },
+        "python-memcached": {
+            "hashes": [
+                "sha256:4dac64916871bd3550263323fc2ce18e1e439080a2d5670c594cf3118d99b594",
+                "sha256:a2e28637be13ee0bf1a8b6843e7490f9456fd3f2a4cb60471733c7b5d5557e4f"
+            ],
+            "index": "pypi",
+            "version": "==1.59"
         },
         "pytz": {
             "hashes": [
